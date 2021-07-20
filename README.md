@@ -1,2 +1,2 @@
 # mpc
-mpc controller project
+MPC project
